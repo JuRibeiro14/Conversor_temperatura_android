@@ -7,7 +7,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/plataforma-Android-green?style=flat-square" alt="Plataforma Android"/>
-  <img src="https://img.shields.io/badge/linguagem-Java%20%7C%20Kotlin-blue?style=flat-square" alt="Linguagem">
+  <img src="https://img.shields.io/badge/linguagem-Kotlin-purple?style=flat-square" alt="Linguagem">
   <img src="https://img.shields.io/badge/status-Em%20Desenvolvimento-yellow?style=flat-square" alt="Status">
 </p>
 
@@ -39,15 +39,6 @@ Aplicativo que utiliza a fórmula:
 ## 🛠️ Tecnologias Utilizadas
 
 - Android Studio
-- Java ou Kotlin
+- Kotlin
 - XML para layout da interface
 
----
-
-## 📸 Screenshots *(opcional)*
-
-Adicione aqui imagens do seu app em funcionamento:
-
-```markdown
-![Conversor](screenshots/conversor.png)
-![Ohm](screenshots/ohm.png)
